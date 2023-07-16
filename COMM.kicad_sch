@@ -725,7 +725,7 @@
           (reference "#PWR032") (unit 1)
         )
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "#PWR071") (unit 1)
+          (reference "#PWR079") (unit 1)
         )
       )
     )
@@ -734,7 +734,7 @@
   (symbol (lib_id "power:+5V") (at 119.38 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52faa670-8894-4e10-8e28-79c132392668)
-    (property "Reference" "#PWR068" (at 119.38 63.5 0)
+    (property "Reference" "#PWR076" (at 119.38 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 119.38 55.88 0)
@@ -750,7 +750,7 @@
     (instances
       (project "sMDU"
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "#PWR068") (unit 1)
+          (reference "#PWR076") (unit 1)
         )
       )
     )
@@ -835,7 +835,7 @@
   (symbol (lib_id "Device:R") (at 123.19 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83a59de9-2682-4675-98a5-2a7bf5097460)
-    (property "Reference" "R19" (at 123.19 67.31 90)
+    (property "Reference" "R27" (at 123.19 67.31 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "5.1k" (at 123.19 69.85 90)
@@ -855,7 +855,7 @@
     (instances
       (project "sMDU"
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "R19") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -864,7 +864,7 @@
   (symbol (lib_id "Device:R") (at 123.19 74.93 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9793d3e2-6213-488a-a0a2-1fb2777e0a8e)
-    (property "Reference" "R20" (at 123.19 69.85 90)
+    (property "Reference" "R28" (at 123.19 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "5.1k" (at 123.19 72.39 90)
@@ -884,7 +884,7 @@
     (instances
       (project "sMDU"
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "R20") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -912,7 +912,7 @@
           (reference "#PWR033") (unit 1)
         )
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "#PWR070") (unit 1)
+          (reference "#PWR078") (unit 1)
         )
       )
     )
@@ -921,7 +921,7 @@
   (symbol (lib_id "power:GND") (at 132.08 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e44e7b0-033f-46a3-a998-3661efa415ec)
-    (property "Reference" "#PWR069" (at 132.08 81.28 0)
+    (property "Reference" "#PWR077" (at 132.08 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 132.08 80.01 0)
@@ -937,7 +937,7 @@
     (instances
       (project "sMDU"
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "#PWR069") (unit 1)
+          (reference "#PWR077") (unit 1)
         )
       )
     )
@@ -965,7 +965,7 @@
           (reference "#PWR031") (unit 1)
         )
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "#PWR072") (unit 1)
+          (reference "#PWR080") (unit 1)
         )
       )
     )
@@ -1046,7 +1046,7 @@
   (symbol (lib_id "power:GND") (at 104.14 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f24d7b32-30fc-4345-b49f-7a5198dc51a7)
-    (property "Reference" "#PWR067" (at 104.14 114.3 0)
+    (property "Reference" "#PWR075" (at 104.14 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 104.14 113.03 0)
@@ -1062,7 +1062,7 @@
     (instances
       (project "sMDU"
         (path "/01e9384d-acb3-40ee-83e0-c5c8a07f30ec/086dea9c-06af-4312-9d68-ae693603fcbc"
-          (reference "#PWR067") (unit 1)
+          (reference "#PWR075") (unit 1)
         )
       )
     )
